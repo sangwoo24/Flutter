@@ -38,6 +38,11 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  
+  hello:
+    git:
+      url: https://github.com/sangwoo24/flutter_package_tutorial
+    # path: /hello
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
